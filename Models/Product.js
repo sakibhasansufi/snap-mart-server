@@ -7,7 +7,7 @@ const productSchema = new mongoose.Schema({
     price: { type: Number , required: true},
     category: { type: [String], required: true },
     ratings: { type: Number},
-    creation_date: { type: String},
+    year: { type: String},
     creation_time: { type: String },
 
 });

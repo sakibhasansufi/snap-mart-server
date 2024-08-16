@@ -1,18 +1,17 @@
 const router = require("express").Router();
 const Product = require("../Models/Product.js")
-const product = require("../config/products.json")
+const products = require("../config/products.json")
 
+router.get("/products", async (req, res) => {
+	try {
+		const page = parseInt(req.query.page) - 1 || 0;
+		const limit = parseInt(req.query.limit) || 5;
+		const search = req.query.search || "";
+		let sort = req.query.sort || "year";
+		let category = req.query.category || "All";
 
-router.get("/movie", async (req, res) => {
-    try {
-        const page = parseInt(req.query.page) - 1 || 0;
-        const limit = parseInt(req.query.limit) || 5;
-        const search = req.query.search || "";
-        let sort = req.query.sort || "date";
-        let category = req.query.category || "All";
-
-        const categoryOptions = [
-            "Processor",
+		const categoryOptions = [
+			"Processor",
             "GPU",
             "Monitor",
             "Motherboard",
@@ -31,68 +30,58 @@ router.get("/movie", async (req, res) => {
             "Microphone",
             "UPS",
             "Others"
-        ];
+		];
 
+		category === "All"
+			? (category = [...categoryOptions])
+			: (category = req.query.category.split(","));
+		req.query.sort ? (sort = req.query.sort.split(",")) : (sort = [sort]);
 
-        category === "All"
-            ? (category = [...categoryOptions])
-            : (category = req.query.category.split(","));
+		let sortBy = {};
+		if (sort[1]) {
+			sortBy[sort[0]] = sort[1];
+		} else {
+			sortBy[sort[0]] = "asc";
+		}
 
-        req.query.sort ? (sort = req.query.sort.split(",")) : (sort = [sort]);
+		const products = await Product.find({ name: { $regex: search, $options: "i" } })
+			.where("category")
+			.in([...category])
+			.sort(sortBy)
+			.skip(page * limit)
+			.limit(limit);
 
-        let sortBy = {};
-        if (sort[1]) {
-            sortBy[sort[0]] = sort[1];
-        } else {
-            sortBy[sort[0]] = 'asc'
-        }
+		const total = await Product.countDocuments({
+			category: { $in: [...category] },
+			name: { $regex: search, $options: "i" },
+		});
 
-        const products = await Product.find({ name: { $regex: search, $options: "i" } })
-            .where("category")
-            .in([...category])
-            .sort(sortBy)
-            .skip(page * limit)
-            .limit(limit)
+		const response = {
+			error: false,
+			total,
+			page: page + 1,
+			limit,
+			categorys: categoryOptions,
+			products,
+		};
 
-
-        const total = await Product.countDocuments({
-            category: { $in: [...category] },
-            name: { $regex: search, $options: "i" }
-        })
-
-        const response = {
-            error: false,
-            total,
-            page: page + 1,
-            limit,
-            category: categoryOptions,
-            products,
-        };
-
-        res.status(200).json(response);
-
-
-    } catch (error) {
-        console.log(error);
-        res.status(500).json({
-            error: true,
-            message: "Internal server error"
-        })
-    }
+		res.status(200).json(response);
+	} catch (err) {
+		console.log(err);
+		res.status(500).json({ error: true, message: "Internal Server Error" });
+	}
 });
 
-
-
-// const insertProducts = async () => {
+// const insertMovies = async () => {
 //     try {
-//         const docs = await Product.insertMany(product);
+//         const docs = await Product.insertMany(products);
 //         return Promise.resolve(docs);
-//     } catch (error) {
-//         return Promise.reject(error)
+//     } catch (err) {
+//         return Promise.reject(err)
 //     }
 // };
 
-// insertProducts()
+// insertMovies()
 //     .then((docs) => console.log(docs))
 //     .catch((err) => console.log(err))
 

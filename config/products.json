@@ -9,7 +9,7 @@
             "Processor"
         ],
         "ratings": 8.7,
-        "creation_date": "February,2024",
+        "year": "2024",
         "creation_time": "10:00 PM"
     },
     {
@@ -22,7 +22,7 @@
             "Processor"
         ],
         "ratings": 8,
-        "creation_date": "January,2024",
+        "year": "2022",
         "creation_time": "5:00 PM"
     },
     {
@@ -35,7 +35,7 @@
             "GPU"
         ],
         "ratings": 7.3,
-        "creation_date": "May,2023",
+        "year": "2023",
         "creation_time": "02:00 PM"
     },
     {
@@ -48,7 +48,7 @@
             "GPU"
         ],
         "ratings": 7,
-        "creation_date": "December,2023",
+        "year": "2023",
         "creation_time": "12:00 PM"
     },
     {
@@ -61,7 +61,7 @@
             "Motherboard"
         ],
         "ratings": "7.5",
-        "creation_date": "August,2022",
+        "year": "2022",
         "creation_time": "10:00 PM"
     },
     {
@@ -74,7 +74,7 @@
             "Motherboard"
         ],
         "ratings": 5,
-        "creation_date": "March,2023",
+        "year": "2020",
         "creation_time": "12:00 PM"
     },
     {
@@ -87,7 +87,7 @@
             "RAM"
         ],
         "ratings": "5",
-        "creation_date": "April,2020",
+        "year": "2019",
         "creation_time": "12:00 PM"
     },
     {
@@ -100,7 +100,7 @@
             "RAM"
         ],
         "ratings": 7,
-        "creation_date": "May,2024",
+        "year": "2024",
         "creation_time": "12:00 PM"
     },
     {
@@ -113,7 +113,7 @@
             "SSD"
         ],
         "ratings": "7",
-        "creation_date": "December,2023",
+        "year": "2023",
         "creation_time": "12:00 PM"
     },
     {
@@ -126,7 +126,7 @@
             "SSD"
         ],
         "ratings": 7,
-        "creation_date": "March,2023",
+        "year": "2023",
         "creation_time": "09:00 PM"
     },
     {
@@ -139,7 +139,7 @@
             "HDD"
         ],
         "ratings": 10,
-        "creation_date": "April,2022",
+        "year": "2022",
         "creation_time": "12:00 PM"
     },
     {
@@ -152,7 +152,7 @@
             "SSD"
         ],
         "ratings": 8.5,
-        "creation_date": "June,2023",
+        "year": "2023",
         "creation_time": "12:00 PM"
     },
     {
@@ -165,7 +165,7 @@
             "Cooler"
         ],
         "ratings": "8",
-        "creation_date": "August,2021",
+        "year": "2021",
         "creation_time": "09:00 PM"
     },
     {
@@ -178,7 +178,7 @@
             "Cooler"
         ],
         "ratings": "7",
-        "creation_date": "November,2022",
+        "year": "2022",
         "creation_time": "08:00 PM"
     },
     {
@@ -191,7 +191,7 @@
             "Power Supply"
         ],
         "ratings": "7",
-        "creation_date": "June,2023",
+        "year": "2023",
         "creation_time": "04:00PM"
     },
     {
@@ -204,7 +204,7 @@
             "Power Supply"
         ],
         "ratings": 8.4,
-        "creation_date": "August,2021",
+        "year": "2021",
         "creation_time": "01:00 PM"
     },
     {
@@ -217,7 +217,7 @@
             "Case"
         ],
         "ratings": 7.2,
-        "creation_date": "March, 2021",
+        "year": "2021",
         "creation_time": "05:00 PM"
     },
     {
@@ -230,7 +230,7 @@
             "Case"
         ],
         "ratings": 6.9,
-        "creation_date": "November,2021",
+        "year": "2021",
         "creation_time": "06:00 PM"
     },
     {
@@ -243,7 +243,7 @@
             "Power Supply"
         ],
         "ratings": 8.7,
-        "creation_date": "May,2023",
+        "year": "2023",
         "creation_time": "04:00 PM"
     },
     {
@@ -256,7 +256,7 @@
             "Case"
         ],
         "ratings": 6.5,
-        "creation_date": "March, 2022",
+        "year": "2022",
         "creation_time": "8:00 PM"
     },
     {
@@ -269,7 +269,7 @@
             "Monitor"
         ],
         "ratings": 9.4,
-        "creation_date": "February,2023",
+        "year": "2023",
         "creation_time": "10:00 AM"
     },
     {
@@ -282,7 +282,7 @@
             "Monitor"
         ],
         "ratings": 9.8,
-        "creation_date": "May,2024",
+        "year": "2024",
         "creation_time": "02:00 AM"
     },
     {
@@ -295,7 +295,7 @@
             "Keyboard"
         ],
         "ratings": 9.5,
-        "creation_date": "July,2022",
+        "year": "2022",
         "creation_time": "01:00 PM"
     },
     {
@@ -308,7 +308,7 @@
             "Mouse"
         ],
         "ratings": 7.6,
-        "creation_date": "April,2021",
+        "year": "2021",
         "creation_time": "08:00 PM"
     },
     {
@@ -321,7 +321,7 @@
             "Mouse"
         ],
         "ratings": 7.5,
-        "creation_date": "May,2022",
+        "year": "2022",
         "creation_time": "07:00 PM"
     },
     {
@@ -334,7 +334,7 @@
             "Headphone"
         ],
         "ratings": 7.8,
-        "creation_date": "October,2023",
+        "year": "2023",
         "creation_time": "09:00 PM"
     },
     {
@@ -347,7 +347,7 @@
             "Headphone"
         ],
         "ratings": 8.5,
-        "creation_date": "November,2022",
+        "year": "2022",
         "creation_time": "11:00 AM"
     },
     {
@@ -360,7 +360,7 @@
             "Mouse Pad"
         ],
         "ratings": 8.8,
-        "creation_date": "December,2021",
+        "year": "2021",
         "creation_time": "10:00 PM"
     },
     {"id": "29",
@@ -372,7 +372,7 @@
             "Others"
         ],
         "ratings": 7.8,
-        "creation_date": "January,2024",
+        "year": "2024",
         "creation_time": "03:00 PM"
     },
     {
@@ -385,7 +385,7 @@
             "Speaker"
         ],
         "ratings": 9,
-        "creation_date": "July2024",
+        "year": "2024",
         "creation_time": "12:00 PM"
     },
     {
@@ -398,7 +398,7 @@
             "Microphone"
         ],
         "ratings": 8,
-        "creation_date": "January,2024",
+        "year": "2024",
         "creation_time": "12:00 AM"
     },
     {
@@ -411,7 +411,7 @@
             "Cooler"
         ],
         "ratings": 7,
-        "creation_date": "December,2023",
+        "year": "2023",
         "creation_time": "03:00 PM"
     },
     {
@@ -424,7 +424,7 @@
             "Others"
         ],
         "ratings": 8,
-        "creation_date": "January,2024",
+        "year": "2024",
         "creation_time": "05:00 AM"
     },
     {
@@ -437,7 +437,7 @@
             "Others"
         ],
         "ratings": 6,
-        "creation_date": "September2023",
+        "year": "2023",
         "creation_time": "12:00 AM"
     },
     {
@@ -450,7 +450,7 @@
             "Cooler"
         ],
         "ratings": 8,
-        "creation_date": "February,2024",
+        "year": "2024",
         "creation_time": "12:00 PM"
     },
     {
@@ -463,7 +463,7 @@
             "Speaker"
         ],
         "ratings": 9,
-        "creation_date": "January,2024",
+        "year": "2024",
         "creation_time": "02:00 PM"
     },
     {
@@ -476,7 +476,7 @@
             "Others"
         ],
         "ratings": 8,
-        "creation_date": "July2024",
+        "year": "2024",
         "creation_time": "12:00 AM"
     },
     {
@@ -489,7 +489,7 @@
             "Others"
         ],
         "ratings": 7,
-        "creation_date": "February,2024",
+        "year": "2024",
         "creation_time": "03:00 PM"
     },
     {
@@ -502,7 +502,7 @@
             "Power Supply"
         ],
         "ratings": 7,
-        "creation_date": "March,2024",
+        "year": "2022",
         "creation_time": "12:00 AM"
     },
     {
@@ -515,7 +515,7 @@
             "Others"
         ],
         "ratings": 8,
-        "creation_date": "January,2024",
+        "year": "2021",
         "creation_time": "02:00 PM"
     }
 ]
