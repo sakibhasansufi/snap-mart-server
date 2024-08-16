@@ -1,0 +1,521 @@
+[
+    {
+        "id": "01",
+        "name": "Intel Core i9-13900K Processor",
+        "description": "The Intel Core i9-13900K 3 GHz 24-Core LGA 1700 Processor will boost your productivity, gaming, and content production. This 13th-generation desktop CPU expands on the Hybrid Core design and Intel 7 process by packing 24 cores onto a single chip, eight more than the previous generation, while still fitting the LGA 1700 socket. The Core i9-13900K is designed to deliver great performance, with 16 low-voltage Efficient-cores handling background activities for multitasking and eight 3 GHz Performance-cores providing speed for demanding programs and gaming. The built-in Intel Thread Director guarantees that the two function in unison by dynamically and intelligently distributing tasks to the appropriate core at the appropriate moment. This processor is designed to handle practically any job, with 32MB of cache and a 5.7 GHz Turbo Boost Max 3.0 frequency that can be increased using Thermal Velocity Boost and Adaptive Boost technologies. This CPU may be overclocked for increased performance. PCI Express 5.0 and dual-channel DDR5 ECC memory at 5600 MHz are also supported by the Core i9-13900K. The Intel 13th Gen Core i9 13900K Processor comes with a 03-year warranty.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i9-13900k/core-i9-13900k-01-500x500.webp",
+        "price": 75000,
+        "category": [
+            "Processor"
+        ],
+        "ratings": 8.7,
+        "creation_date": "February,2024",
+        "creation_time": "10:00 PM"
+    },
+    {
+        "id": "02",
+        "name": "AMD Ryzen 9 7950X Processor",
+        "description": "The AMD Ryzen 9 7950X is a 16-core CPU featuring Zen4 microarchitecture. It reportedly features two Durango CCDs with 16 cores codenamed “Persephone”. The leaker claims that the battle for the top CPUs will be between 7950X’s 5.85 GHz and i9-13900K supposedly boosting up to 5.8 GHz with Thermal Velocity Boost. The sample that was described by “Venom” is not the top bin CPU.                                                                                           The Ryzen 7000 is AMD's first 5nm x86 CPU for desktop PCs, however, it doesn't have more cores than earlier-generation versions. But with the new Zen 4 microarchitecture, rates may reach 5.7 GHz, an astounding 800 MHz boost over the previous generation, and up to 13% more IPC. As a consequence, single-threaded performance is up 29% compared to the previous-generation CPUs. As for threaded workloads, AMD claims up to 45% greater performance in applications with higher performance requirements.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1lBpIKlkvIcwRWrMsxKD-kAqKXSxZQUs2uw&s",
+        "price": 64000,
+        "category": [
+            "Processor"
+        ],
+        "ratings": 8,
+        "creation_date": "January,2024",
+        "creation_time": "5:00 PM"
+    },
+    {
+        "id": "03",
+        "name": "Nvidia GeForce RTX 4090 GPU",
+        "description": "The MSI GeForce RTX 4090 GAMING X SLIM 24GB GDDR6X Graphics Card is a beast, built to deliver the finest possible gaming and creative experience. This graphics card, built on the NVIDIA Ada Lovelace architecture, offers DLSS 3 AI-powered images with incredible speed and efficiency gain. With 24GB of G6X RAM, gamers and creators will be able to achieve performance never seen before. The RTX 4090 has a phenomenal boost clock and memory speed of 21 Gbps, operating at 2595 MHz in both GAMING and SILENT modes. The board has two HDMI ports and two DisplayPort 1.4a connectors, supporting 4K@120Hz HDR, 8K@60Hz HDR, and variable frame rates mandated by HDMI 2.1a. TRI FROZR 3 Thermal Design is the name of this graphics card, which uses cutting-edge cooling techniques. Together, the TORX Fan 5.0's fan blades connected by ring arcs and fan cowl stabilize and sustain high-pressure airflow. The heat from the GPU and memory modules is effectively captured by the Copper Baseplate and quickly transferred to Core Pipes. These heat pipes' square form optimizes heat transfer over the GPU and disperses heat towards the heatsink. The Airflow Control ensures air is precisely guided to maximum cooling effectiveness. The MSI GeForce RTX 4090 has a Dual BIOS system installed for more versatility. Users may customize the graphics card's performance to suit their needs by selecting between full performance in GAMING mode and reduced noise in SILENT mode. Afterburner, the most well-known and extensively used graphics card overclocking program worldwide, is compatible with the graphics card. Users have complete control over their GPU settings with Afterburner, allowing them to adjust performance to suit their requirements and tastes. All things considered, the MSI GeForce RTX 4090 GAMING X SLIM 24GB GDDR6X Graphics Card is a superior option for fans looking for unmatched performance in both gaming and creative applications.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFsxtHwfKz1vIgZ5gyQHLuTkSgmzj4sVQdgw&s",
+        "price": 320000,
+        "category": [
+            "GPU"
+        ],
+        "ratings": 7.3,
+        "creation_date": "May,2023",
+        "creation_time": "02:00 PM"
+    },
+    {
+        "id": "04",
+        "name": "AMD Radeon RX 7900 XTX GPU",
+        "description": "Sapphire Radeon RX 7900 XTX Gaming 24GB GDDR6 Graphics Card lets you enjoy the unmatched performance, graphics, and efficiency at 4K and higher resolutions. It is the first gaming GPU in the world to be based on AMD RDNA 3 chiplet technology. Utilize AMD Radiance Display Engine's pinpoint color accuracy to immerse yourself in breathtaking visuals, and AMD FidelityFX Super Resolution and Radeon Super Resolution upscaling technologies to increase frame rates. The AMD RDNA 3 architecture uses chiplet technology that is at the forefront of the industry to deliver performance, visuals, and power efficiency that are next-generation. With the help of cutting-edge AMD RDNA 3 compute units, you can achieve astounding performance while improving image quality. These units feature redesigned raytracing accelerators. Modern super-optimized spatial upscaling technology is used by AMD Fidelity FX Super Resolution technology, or FSR, to produce ultra-high-quality edges and distinct pixel detail. With FSR, you can enable the newest features and game settings while still playing at a playable framerate. AMD Radeon Anti-Lag lowers latency while delivering incredibly quick response times, giving you a decisive advantage over your rivals. More wins result from less lag. Fast motion in games is optimized by AMD Radeon Boost to provide more performance and improved responsiveness when it counts. For professionals or amateurs who push the limits of their work's complexity, unpack 8K textures and render complex 3D environments in real-time with up to 24GB of dedicated GDDR6 Memory and up to a 384-Bit Memory Bus. The AMD Radeon RX 7900 Series graphics deliver cutting-edge performance, visuals, and efficiency at 4K and beyond thanks to the innovative AMD RDNA 3 architecture and chipset technology. Utilize the AMD Radeon RX 7000 Series graphics cards to their full potential by pairing them with a monitor that supports AMD FreeSync technology in order to enjoy a smooth, tear-free gaming experience with fast refresh rates, low latency, and beautiful HDR. The AMD Radeon RX 7000 Series graphics cards are optimized for AMD FidelityFX, a powerful set of visual enhancement effects that enable a wide range of rasterized lighting, shadow, and reflection effects in the newest games with little performance impact. Give your graphics card the space it needs to support the demandingly intense gaming experiences. Smart Technologies, which are exclusive to AMD platforms, improve system performance by taking advantage of the interactions between AMD's CPUs and GPUs to speed up the overall platform performance.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/sapphire/rx-7900-xtx/rx-7900-xtx-01-500x500.webp",
+        "price": 97000,
+        "category": [
+            "GPU"
+        ],
+        "ratings": 7,
+        "creation_date": "December,2023",
+        "creation_time": "12:00 PM"
+    },
+    {
+        "id": "05",
+        "name": "ASUS ROG Strix Z790-E Motherboard (Intel)",
+        "description": "ASUS ROG STRIX Z790-E GAMING WIFI 14th Gen  Motherboard features LGA 1700 socket and Z790 chipset which supports Intel Socket LGA1700 for 13th Gen Intel Core & 12th Gen Intel Core, Pentium Gold, and Celeron Processors. This motherboard comes with 4 x DIMM that supports DDR5 Dual-Channel RAM up to 128GB of memory with speeds up to 7200 MHz when overclocked. This provides you with increased multitasking and rendering capabilities. It comes with 5x M.2 PCIe and four SATA III storage interfaces allow you to combine an array of storage drives to build a massive gaming library. It also has a single PCIe 5.0 x16 slot that supports resource-intensive graphics cards, while two PCIe 4.0 x16 (in x4 mode) and one PCIe 3.0 x1 slots support a variety of utility cards. Several USB 2.0, 3.2 Gen 1, Gen 2, and Gen 2x2 interfaces are accessible via the back panel and internal headers, providing ample support for peripherals such as mice, keyboards, and controllers as well as resource-demanding devices such as external drives. Bluetooth 5.2 technology can be used by wireless devices to provide a reliable cable-free experience. Use Wi-Fi 6E (802.11ax) to connect to your wireless network, or the integrated 2.5 Gigabit Ethernet port if you prefer a wired connection.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/rog-strix-z790-e-gaming-wifi/rog-strix-z790-e-gaming-wifi-01-500x500.webp",
+        "price": 71000,
+        "category": [
+            "Motherboard"
+        ],
+        "ratings": "7.5",
+        "creation_date": "August,2022",
+        "creation_time": "10:00 PM"
+    },
+    {
+        "id": "06",
+        "name": "MSI MAG B650 TOMAHAWK WIFI Motherboard (AMD)",
+        "description": "The MSI MAG B650 TOMAHAWK WIFI Motherboard supports AMD's Ryzen 8000 & 7000-series processors with up to 16 Zen 4 cores as well as dual-channel DDR5 memory, with a Maximum Memory Capacity of up to 128GB and a bus speed of up to 6400+(OC) MHz. It features a Core Boost technology that combines MSI's premium layout and optimized power design which allows for faster and undistorted current delivery to the CPU at pin-point precision. Not only supports multi-core CPUs, but also creates the perfect conditions for your CPU overclocking. It has an extended Heatsink, MOSFET thermal pads rated for 7W/mK, additional choke thermal pads and a Double-sided M.2 Shield Frozr built for a high-performance system and a non-stop gaming experience. The motherboard is made of a 6-layer PCB made of 2oz thickened copper and server-grade level material. It can deliver a lightning-fast game experience with PCIe 4.0 slots, Lightning Gen 4 x4 M.2 with M.2 Shield Frozr design keeps M.2 SSDs safe while preventing throttling, making them run faster. The rear I/O panel now offers easy ways of directly entering the safe boot, a one-click toggle for all RGB lights, and directly activating Turbo mode. The MSI MAG B650 TOMAHAWK WIFI offers you ample connectivity options, giving you seven USB-A 3.2 Gen 1 and 2 ports with data transfer speeds up to 5 and 10 Gb/s, respectfully, suitable for a wide range of peripherals such as capture cards, microphones, and more. A single USB-C 3.2 Gen 2x2 port offers up to 20 Gb/s speeds, suitable for audio arrays. The MAG B650 series motherboards offer a wide variety of options to connect and boost your USB devices, offering never before seen USB speeds up to 20Gb/s when connecting the Rear USB Type-C. The MSI MAG B650 TOMAHAWK WIFI comes with 3 years of warranty.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/mag-b650-tomahawk-wifi/mag-b650-tomahawk-wifi-01-500x500.webp",
+        "price": 30000,
+        "category": [
+            "Motherboard"
+        ],
+        "ratings": 5,
+        "creation_date": "March,2023",
+        "creation_time": "12:00 PM"
+    },
+    {
+        "id": "07",
+        "name": "Corsair Vengeance RGB Pro 32GB DDR5 RAM",
+        "description": "The Corsair VENGEANCE RGB 32GB (2x16GB) DDR5 5200MHz C40 AMD EXPO RAM Kit is a high-performance memory kit designed for AMD motherboards. With a capacity of 32GB, it provides ample memory for demanding tasks and applications. The DDR5 technology ensures faster data transfer rates and improved overall performance compared to its DDR4 counterparts. Operating at a frequency of 5200MHz, this RAM kit delivers exceptional speed and responsiveness, allowing for smooth multitasking and seamless gaming experiences. The 288-pin form factor ensures compatibility with most modern motherboards, providing easy installation and setup. The voltage and CAS latency of the Corsair VENGEANCE RGB DDR5 RAM are optimized for efficient performance. With a voltage of 1.25V and a CAS latency of C40, the RAM operates at an optimal power level while maintaining low latency for faster data access. This RAM kit is the ten-zone RGB lighting. The RGB lighting adds a vibrant and customizable visual element to your PC, allowing you to personalize the aesthetics and create stunning lighting effects. You can sync the lighting with other compatible RGB components to create a unified lighting theme throughout your system. The Corsair VENGEANCE RGB 32GB DDR5 RAM Kit is an excellent choice for users who prioritize performance and aesthetics. It offers high-speed DDR5 memory, optimized for AMD motherboards, and features customizable RGB lighting to enhance the visual appeal of your cutting-edge PC build.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-rgb/vengeance-rgb-01-500x500.webp",
+        "price": 18000,
+        "category": [
+            "RAM"
+        ],
+        "ratings": "5",
+        "creation_date": "April,2020",
+        "creation_time": "12:00 PM"
+    },
+    {
+        "id": "08",
+        "name": "G.Skill Trident Z5 RGB 64GB DDR5 RAM",
+        "description": "The G.Skill Trident Z5 RGB 64GB DDR5 RAM is a high-performance memory module designed for gaming and content creation. With its impressive 64GB capacity, it offers ample space for multitasking and demanding applications. The DDR5 technology ensures faster data transfer rates and improved power efficiency, making it suitable for cutting-edge systems. Additionally, the RGB lighting feature adds a touch of personalization to your PC build, allowing you to customize the lighting effects to match your setup. Overall, this RAM module is ideal for users seeking top-tier performance and aesthetics in their memory solution.",
+        "image": "https://www.binarylogic.com.bd/images/product_image/g-skill-trident-ram.webp",
+        "price": 16000,
+        "category": [
+            "RAM"
+        ],
+        "ratings": 7,
+        "creation_date": "May,2024",
+        "creation_time": "12:00 PM"
+    },
+    {
+        "id": "09",
+        "name": "Samsung 980 Pro 2TB NVMe SSD",
+        "description": "The Samsung 980 Pro SSD comes with a 2TB capacity, M.2 2280 Form Factor, and PCIe 4.0 x4 NVMe 1.3c Interface. It has a sequential read speed of 7,000MB/s and a sequential write speed of 5,000MB/s. This SSD delivers 2x the data transfer rate of PCIe 3.0 while maintaining compatibility with PCIe 3.0. The Samsung 980 Pro SSD is Powered by a new Elpsis controller designed to harmonize the flash memory components and the interface for superior speed with a PCIe 4.0 interface that's 2x faster than PCIe 3.0 SSDs and 12x faster than Samsung SATA SSDs every component of this NVMe SSD is manufactured by Samsung for performance that lasts. This latest Samsung 980 Pro 2TB PCIe 4.0 M.2 NVMe SSD has 03 years of warranty.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/980-pro/980-pro-2tb-01-500x500.jpg",
+        "price": 22000,
+        "category": [
+            "SSD"
+        ],
+        "ratings": "7",
+        "creation_date": "December,2023",
+        "creation_time": "12:00 PM"
+    },
+    {
+        "id": "10",
+        "name": "WD Black SN850X 1TB NVMe SSD",
+        "description": "Western Digital SN850X 1TB NVMe M.2 SSD is a cutting-edge storage solution available at TechLand BD, designed to elevate your computing experience with its high performance and reliability. Featuring a substantial 1TB capacity, this SSD offers ample space for your operating system, applications, and large files, making it ideal for gamers, content creators, and professionals who demand rapid data access and extensive storage. The M.2 2280 form factor ensures compatibility with a wide range of desktops and laptops, fitting seamlessly into most modern systems without the need for additional cables or power sources. Utilizing the advanced PCIe Gen4 x4 interface, the SN850X delivers blazing-fast data transfer speeds, with sequential read speeds of up to 5150MB/s and sequential write speeds of up to 4900MB/s. These impressive speeds drastically reduce load times, enhance system responsiveness, and improve overall productivity.Measuring 80mm x 22mm x 2.38mm, the slim and compact design of the Western Digital SN850X ensures it fits easily into a variety of systems, offering a hassle-free upgrade path for enhancing your storage performance. This SSD is engineered with the latest NAND technology and sophisticated algorithms to ensure data integrity, durability, and efficient power consumption, making it a reliable choice for both everyday use and demanding tasks. Whether you're gaming, editing high-resolution videos, or working with large datasets, the SN850X provides the speed and reliability you need to handle intensive workloads with ease.Additionally, the SN850X comes with a robust 5-year limited warranty, underscoring Western Digital's commitment to quality and customer satisfaction. This warranty provides peace of mind, ensuring that your investment is protected against potential issues and defects. With the SN850X , you not only get top-tier performance but also the assurance of long-term reliability.In summary, the Western Digital SN850X 1TB NVMe M.2 SSD available at TechLand BD is an exceptional storage solution that combines high capacity, remarkable speed, and robust reliability. Its PCIe Gen4 x4 interface, coupled with impressive read and write speeds, makes it a perfect choice for those looking to significantly enhance their system's performance. The compact M.2 2280 form factor ensures broad compatibility, while the 5-year limited warranty provides added assurance of durability and support. Upgrade your system with the Western Digital SN850X and experience a new level of efficiency and responsiveness in your computing tasks.",
+        "image": "https://www.techlandbd.com/image/catalog/Western-Digital/western-digital-sn850x-1tb-nvme-m2-ssd1.jpg",
+        "price": 13000,
+        "category": [
+            "SSD"
+        ],
+        "ratings": 7,
+        "creation_date": "March,2023",
+        "creation_time": "09:00 PM"
+    },
+    {
+        "id": "11",
+        "name": "Seagate Barracuda 4TB HDD",
+        "description": "Seagate barracuda 4TB Sata 3.5 inch Cost-effective 5400 RPM internal hard drive upgrade for laptop or desktop computers allows you to store all of your games, music, movies, and more. Seagate BarraCudaâ€™s SATA 6Gb/s interface optimizes burst performance while Seagate Secure models offer hardware-based data security. Best-fit applications for BarraCuda hard drives include desktop or all-in-one PCs, home servers, entry-level direct-attached storage devices (DAS).Instant Secure Erase allows safe and easy drive retirement.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/4tb-hdd/4tb-500x500.jpg",
+        "price": 15000,
+        "category": [
+            "HDD"
+        ],
+        "ratings": 10,
+        "creation_date": "April,2022",
+        "creation_time": "12:00 PM"
+    },
+    {
+        "id": "12",
+        "name": "Crucial MX500 2TB SATA SSD",
+        "description": "The Crucial MX500 SSD offers impressive performance with sequential reads/writes up to 560/510 MB/s and random reads/writes up to 95K/90K on all file types. It is powered by Micron 3D NAND technology, ensuring enhanced speed and reliability for intensive computing tasks. The integrated Power Loss Immunity feature safeguards stored work in the event of unexpected power interruptions, providing added peace of mind during critical operations. Additionally, Aes 256-bit hardware-based encryption keeps data secure from potential security threats. With a reliable Crucial 5-year limited warranty, this SSD is a dependable choice for those seeking high-speed data transfer and robust data protection in their computing systems.",
+        "image": "https://m.media-amazon.com/images/I/81rg-38AdJL._AC_SX466_.jpg",
+        "price": 16000,
+        "category": [
+            "SSD"
+        ],
+        "ratings": 8.5,
+        "creation_date": "June,2023",
+        "creation_time": "12:00 PM"
+    },
+    {
+        "id": "13",
+        "name": "NZXT Kraken X73 Liquid CPU Cooler",
+        "description": "The NZXT Kraken X73 360mm All-in-One CPU Liquid Cooler is a stunning must-have for any build, providing better cooling, stunning visual effects, and intuitive installation. You can fine-tune settings with CAMâ€™s software interface, ensuring optimal performance in even the most intense gaming sessions. With a re-designed cap and larger infinity mirror ring LED, the new Kraken X delivers an amazing experience in liquid cooling. A rotatable top accommodates re-orienting the logo no matter the direction the cooler is installed. It has 3 x Aer P radiator fans that are designed for liquid-cooling perfection. It features a chamfered intake and fluid dynamic bearing that provides silent operations, durability, and powerful cooling performance. It has a 5-year warranty.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/nzxt/kraken-x73/kraken-x73-500x500.jpg",
+        "price": 22000,
+        "category": [
+            "Cooler"
+        ],
+        "ratings": "8",
+        "creation_date": "August,2021",
+        "creation_time": "09:00 PM"
+    },
+    {
+        "id": "14",
+        "name": "Noctua NH-D15 Air Cooler",
+        "description": "Noctua NH-D15 is a Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans. the NH-D15's fine-tuned six heatpipe dual tower design provides more surface area, better heat-distribution and superior airflow efficiency in dual fan mode. he NH-D15's fin-stack has been widened from 140 to 150mm and its heatpipes are now spaced further apart, which allows for a more uniform heat distribution over a larger surface area and thus contributes to the NH-D15's superior efficiency. the NH-D15 provides 64mm clearance for tall memory heat sinks in single fan mode, making it compatible with most high end RAM modules on the market. In dual fan mode, the NH-D15 should be used with standard height RAM (up to 32mm). The NF-A15 premium fans supplied with the NH-D15 support PWM for convenient automatic speed control through the motherboard. In addition, the maximum fan speed can be reduced from 1500 to 1200rpm using the supplied Low-Noise Adaptors for even quieter operation. Extending below the fin-stacks, the large NF-A15 fans not only contribute to the NH-D15's superb CPU cooling capabilities but also provide massive airflow over surrounding motherboard components and heatsinks, thus ensuring excellent component cooling performance. Noctua's SecuFirm2 mounting systems have become synonymous with quality, safety and ease of use. Supporting Intel LGA115x (LGA1150, LGA1151, LGA1155, LGA1156), LGA2011, LGA2066 and AMD (AM4 (since 2019), AM3(+), AM2(+), FM1, FM2(+)), the SecuFirm2â„¢ mounting included with the NH-D15 guarantees perfect contact pressure and maximum convenience on all current sockets. Complying with the open SecuFirm standard, the NH-D15 can be made compatible with the older LGA1366 and LGA775 sockets using the optional NM-I3 mounting kit, which is provided by Noctua free of charge. If technically possible, Noctua will also provide upgrade kits for future sockets. Noctua's much-acclaimed NT-H1 is a well proven pro-grade TIM solution that provides minimum thermal resistance, excellent ease-of-use and outstanding reliability, which makes it suitable for use in professional server and workstation environments. Noctua products are renowned for their impeccable quality and outstanding longevity. Like all Noctua fans, the supplied NF-A15's feature an MTTF rating of more than 150.000 hours and the entire NH-D15 package comes with a full 6-year manufacturer's warranty.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/component/cpu-cooler/noctua/nh-d15/nh-d15-1-500x500.jpg",
+        "price": 8000,
+        "category": [
+            "Cooler"
+        ],
+        "ratings": "7",
+        "creation_date": "November,2022",
+        "creation_time": "08:00 PM"
+    },
+    {
+        "id": "15",
+        "name": "Corsair RM850x 850W Power Supply (PSU)",
+        "description": "Corsair RM850x 850Watt 80 Plus Gold Certified Power Supply is fully modular power supplies are built with the highest quality components to deliver 80 PLUS Gold efficient power to your PC, with virtually silent operation. The high-efficiency operation for lower power consumption, less noise, and cooler temperatures. A specially set fan curve ensures that, even at full load, fan noise is kept to a minimum. At low and medium loads the cooling fan switches off entirely for near-silent operation. Premium internal components ensure unwavering power delivery and long-term reliability. Only connect the cables your system needs, making clean and tidy builds easier. A 160mm-long casing ensures an easy fit in almost all modern enthusiast PC cases. Your guarantee of reliable operation that will last across several systems builds.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/corsair/rm850x/rm850x-500x500.jpg",
+        "price": 14000,
+        "category": [
+            "Power Supply"
+        ],
+        "ratings": "7",
+        "creation_date": "June,2023",
+        "creation_time": "04:00PM"
+    },
+    {
+        "id": "16",
+        "name": "EVGA SuperNOVA 1000 G5 1000W Power Supply (PSU)",
+        "description": "80 plus Gold certified, with 91% efficiency or higher under typical loads. Fully modular to reduce clutter and improve airflow. AC Input - 100 - 240 VAC, 15-8A, 50/60 Hz. 100% Japanese capacitors, active clamp DC to -DC converter design to improve 3.3V./ 5V. Stability. Fluid Dynamic Bearing fan and EVGA eco mode for ultra-quiet operation and increased lifespan. 10 year limited Warranty and unparalleled EVGA Customer Support.",
+        "image": "https://m.media-amazon.com/images/I/71OaPvBxzPL._AC_SX466_.jpg",
+        "price": 18000,
+        "category": [
+            "Power Supply"
+        ],
+        "ratings": 8.4,
+        "creation_date": "August,2021",
+        "creation_time": "01:00 PM"
+    },
+    {
+        "id": "17",
+        "name": "Lian Li PC-O11 Dynamic Case",
+        "description": "Lian Li O11DX O11 Dynamic ATX Mid Tower Gaming Case (Black) is comes with Tempered Glass+Aluminum front panel with Tempered Glass side panel. This casing is structured with Dual chamber and designed with (Front)Tempered Glass+Aluminum, (Side)Tempered Glass with (Body)1.0mm SECC. This Whiote casing has 8 Expansion Slot, 4 2.5 SSD, 2 3.5 HDD, USB3.0 x2 , HD Audio USB3.1 Type-C x1 , HD Audio I/O port, E-ATX / ATX / Micro-ATX / Mini-itx type M/B. You can add (Top) 120mm x3 / 140mm x2(Option), (Side) 120mm x3(Option) and (Bottom) 120mm x3 (Option) in this casing. The casing is support 120x 360mm / 120x 240mm / 140x 280mm radiator, length â‰¤420mm , height â‰¤159mm VGA Card, â‰¤155mm CPU Cooling, 2ï¼Œ(L)210mm~255mm(max) PSU with (Top) x (Side) x2, (Bottom) x1 filter. It has No warranty.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/casing/lian-li/o11d-o11/o11d-o11-01-500x500.jpg",
+        "price": 14000,
+        "category": [
+            "Case"
+        ],
+        "ratings": 7.2,
+        "creation_date": "March, 2021",
+        "creation_time": "05:00 PM"
+    },
+    {
+        "id": "18",
+        "name": "NZXT H510 Elite Case",
+        "description": "The NZXT H510 Elite Mid-Tower White Casing has a sleek and minimalistic design with plenty of useful features for a clean and simple construction. It includes a PSU shroud and a built-in cable management system at the back, in addition to its characteristic cable management bar. It can accommodate an ATX motherboard, three 2.5 or 3.5 hard drives, and three dual-slot graphics cards. Alternatively, using an extra riser cable, you may mount a single dual-slot graphics card vertically. Whether you want to liquid cool or not, the H510i supports up to two 120/140mm front fans, one 120/140mm rear fan, and one 120/140mm top fan. You can show off your hardware as well as any custom LED lights thanks to its tempered-glass front and side panels. This case has NZXT's CAM-powered Smart Device, which functions as a fan and RGB LED lighting controller. In comparison to the H510i, this Elite model has two AER RGB 2 140mm fans, a 140mm AER F140 fan instead of a 120mm AER F140 fan, and a tempered-glass front panel. The NZXT H510 Elite Compact Mid Tower White Casing has no warranty.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/casing/nzxt/h510-elite-white/h510-elite-white-01-500x500.webp",
+        "price": 15000,
+        "category": [
+            "Case"
+        ],
+        "ratings": 6.9,
+        "creation_date": "November,2021",
+        "creation_time": "06:00 PM"
+    },
+    {
+        "id": "19",
+        "name": "ASUS ROG Thor 850W Platinum Power Supply",
+        "description": "The ROG Thor 850W Platinum Power Supply Unit is the firs PSU launched by ASUS and it is packed with innovative ideas. It stands out with Aura Sync and an OLED display. ASUS Aura Sync is an illumination ecosystem that lets you synchronize lighting effects across your gaming rig, components, and peripherals. The ROG Thor lets you take full control with internal Aura RGB LEDs that connect to the 4-1 addressable RGB header on select motherboards. It is the first PC PSU in the world to feature an integrated OLED panel, offering a real-time display of power draw. Now you can see at a glance how much juice your rig is using. It has been equipped with a 135mm patented Wing-blade fan to maximize component lifespan. IP5X dust-resistance keeps it spinning freely and 0dB technology utilizes thermal sensors to allow the fan to switch off completely at lower wattages. The integrated ROG heatsinks have 2x more volume than traditional designs, resulting in 20% lower temperatures inside the ROG Thor 850W Platinum. It has an 80+ Platinum certification for energy efficiency, built with 100% Japanese capacitors for stability and durability. The sleeved cables include one 24-pin, two 6+2-pin PCI-e cables, and two 8-pin CPU cables. It ensures reliability and comes with a 10-year warranty.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/asus/rog-thor-850p/rog-thor-850p-box-500x500.jpg",
+        "price": 25000,
+        "category": [
+            "Power Supply"
+        ],
+        "ratings": 8.7,
+        "creation_date": "May,2023",
+        "creation_time": "04:00 PM"
+    },
+    {
+        "id": "20",
+        "name": "Cooler Master MasterBox NR600 Case",
+        "description": "The MasterBox NR600 Mid-Tower Case from Cooler Master features a minimalistic design with plenty of cooling potential and expandability options. It's made from steel and plastic, complete with a tempered glass window panel, supporting up to ATX-sized motherboards. Aside from plenty of storage drives, it also has room for up to seven PCIe expansion cards. At the top of the case are two USB 3.0 Type-A ports and a single 4-pole headset jack for audio-out and microphone connectivity.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjzi-r8iY_cuFcJRj8jog9NxQ7DpkYPH4uOQ&s",
+        "price": 6300,
+        "category": [
+            "Case"
+        ],
+        "ratings": 6.5,
+        "creation_date": "March, 2022",
+        "creation_time": "8:00 PM"
+    },
+    {
+        "id": "21",
+        "name": "ASUS ROG Swift PG279QZ 271440p Gaming Monitor",
+        "description": "The 27-inch WQHD (1440P) monitor features a 165 Hertz refresh rate and a thin bezel design, offering an optimal balance of screen size and resolution for high-refresh gaming. It delivers immersive, lifelike color in games, movies, and design with a vivid IPS panel that supports wide viewing angles. The physical dimensions with the stand are 619.77x552.53x237.9 millimeters, and without the stand, they are 619.77x362.96x65.98 millimeters, making it compatible with VESA wall mounts. Equipped with NVIDIA G-SYNC technology, the monitor eliminates stutter and screen tearing for smooth gameplay. It's designed for marathon gaming sessions with ASUS Eye Care technology to reduce eye fatigue and an ergonomic stand with full height, tilt, swivel, and pivot adjustments for desk versatility. Additionally, the monitor includes exclusive Game Visual and GamePlus functions to enhance color performance and control, and supports a 144 Hertz refresh rate.",
+        "image": "https://dlcdnwebimgs.asus.com/gain/42BD1450-5437-42FD-8F5B-1777841C8EC3/w717/h525",
+        "price": 15000,
+        "category": [
+            "Monitor"
+        ],
+        "ratings": 9.4,
+        "creation_date": "February,2023",
+        "creation_time": "10:00 AM"
+    },
+    {
+        "id": "22",
+        "name": "LG UltraGear 27GN950-B 274K Gaming Monitor",
+        "description": "LG 27GN950-B Gaming Monitor comes with 27 UHD (3840 x 2160) Nano IPS Display, IPS 1ms (GtG) 144Hz with VESA DSC Technology, NVIDIA G-SYNC Compatible with AMD FreeSync Premium Pro, DCI-P3 98% with VESA DisplayHDR 600, 4-Side Virtually Borderless Display with Tilt/ Height/ Pivot Adjustable Stand.LG UltraGear delivers an unparalleled immersive experience and ultra-fast speed of 144Hz on a 4K Nano IPS 1ms display with the next level immersion on a 4K Nano IPS display with a 1ms response. This new gaming monitoer is also featuring VESA Display Stream Compression (DSC) Technology, 27GN950 supports 4K hi-resolution, HDR and G-SYNC Compatible as well as covering 10bit color by a single DisplayPort connection, and reducing visual loss. In this monitor, The Nano IPS technology supports the express high-fidelity color for reproducing vivid scenes, while VESA DisplayHDR600 delivers dynamic contrast, on the large UHD 4K screen. This exclusive monitor is also features with Re-imagine every scene with vivid, responsive IPS. At 27 and 16:9 screen ratio (3840x2160), LG's UltraGear 4K Nano IPS Display features realistic, true color, enhanced contrast, clarity and detail, while delivering ultra-fast 1ms response rates. Here, the 144Hz refresh rate monitor combined with a 1ms response rate offers smoother, clearer action while reducing blur and ghosting. The LG 27GN950 Monitor is a NVIDIA-tested and officially verified G-SYNC compatible monitor, reducing screen tearing and minimizing stutter for a smoother, faster gaming experience. With FreeSync Premium Pro technology, gamers can experience seamless, fluid movement in hi-resolution and fast-paced games, It virtually reduces screen tearing and stuttering.Here, The RGB Sphere Lighting 2.0 draws you deeper into the game with Sound Sync mode. The 27GN950 lights up according to the dynamic sounds in the game and also the Video Sync mode in the RGB Sphere Lighting 2.0 lights up according to the game visuals for a fully immersive experience. You can customize your battle station in seconds. Raise, lower, tilt, pivot - the stand has a flexible ergonomic design to easily adapt to your environment and gaming style.This New hardware calibrated monitor with 4K resolution covers 98% of DCI-P3 color gamut for true color accuracy so that master content creation during the day and game competitively during the night. This new exclusive LG 27GN950-B monitor has 03 years of warranty.",
+        "image": "https://media.us.lg.com/transform/ecomm-PDPGallery-1100x730/de519dcc-b602-4d14-8d99-8dd6cf12028a/md07500042-zoom-01-jpg",
+        "price": 44000,
+        "category": [
+            "Monitor"
+        ],
+        "ratings": 9.8,
+        "creation_date": "May,2024",
+        "creation_time": "02:00 AM"
+    },
+    {
+        "id": "23",
+        "name": "Corsair K95 RGB Platinum XT Mechanical Keyboard",
+        "description": "The CORSAIR K95 RGB PLATINUM XT Mechanical Gaming Keyboard immerses your desktop in dynamic per-key RGB backlighting, equipped with a double-shot PBT keycap set and six dedicated macro keys with Elgato Stream Deck software integration.",
+        "image": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Gaming-Keyboards/CH-9127414-NA/Gallery/K95_PLATINUM_RGB_XT_01.webp?width=1080&quality=85&auto=webp&format=pjpg",
+        "price": 23000,
+        "category": [
+            "Keyboard"
+        ],
+        "ratings": 9.5,
+        "creation_date": "July,2022",
+        "creation_time": "01:00 PM"
+    },
+    {
+        "id": "24",
+        "name": "Razer DeathAdder V2 Pro Gaming Mouse",
+        "description": "FOCUS PLUS 20K DPI OPTICAL SENSOR — Auto-calibrates across mouse mat and reduces cursor drift from lift-off and landing for industry-leading precision. 25% FASTER THAN COMPETING WIRELESS MICE — Razer HyperSpeed wireless technology brings together extreme low-latency and interference reduction for true wireless freedom. IMMERSIVE, CUSTOMIZABLE CHROMA RGB LIGHTING — Supports 16.8 million colors w, included preset profiles; syncs with gameplay and Razer Chroma-enabled peripherals and Philips Hue products. 70 HOURS OF INTENSE GAMING — With the benefit of dual connectivity, enjoy up to 120 hours of battery life in Bluetooth mode, or up to 70 hours of ultra-fast performance when switching to HyperSpeed Wireless. 88G LIGHTWEIGHT DESIGN — Redesigned for better FPS gaming in the most iconic, ergonomic design on the market.",
+        "image": "https://m.media-amazon.com/images/I/61C3xYVKtZL._AC_SX466_.jpg",
+        "price": 9000,
+        "category": [
+            "Mouse"
+        ],
+        "ratings": 7.6,
+        "creation_date": "April,2021",
+        "creation_time": "08:00 PM"
+    },
+    {
+        "id": "25",
+        "name": "Logitech G Pro X Superlight Wireless Gaming Mouse",
+        "description": "Introducing PRO X SUPERLIGHT—one of our lightest, fastest PRO mouse ever. Powered by LIGHTSPEED, it’s here to help you remove all obstacles, so you can focus on nothing but winning. Get insanely precise, fast, and consistent control with HERO Sensor. Take first faster with zero-additive PTFE feet that deliver a dramatically smoother glide. Developed in collaboration with a large group of the world’s best esports pros, PRO X SUPERLIGHT features hyper-minimal design, but is packed with our latest technologies and advancements. PRO X SUPERLIGHT is available in black and white",
+        "image": "https://www.techlandbd.com/image/catalog/Mouse/Logitech/PRO%20X%20SUPERLIGHT/White/PRO%20X-w-02.jpg",
+        "price": 13000,
+        "category": [
+            "Mouse"
+        ],
+        "ratings": 7.5,
+        "creation_date": "May,2022",
+        "creation_time": "07:00 PM"
+    },
+    {
+        "id": "26",
+        "name": "HyperX Cloud II Wireless Gaming Headset",
+        "description": "Cut the cord and roam free with low-latency 2.4GHz Wireless connection, a range of up to 20 meters and a battery life of up to 30 hours..[Signature HyperX comfort]: Premium memory foam and soft, pliable leatherette deliver legendary comfort. It’s also lightweight at 300g, making it more comfortable to use during long gaming sessions. Cut the cord and roam free with low-latency 2.4GHz Wireless connection, a range of up to 20 meters and a battery life of up to 30 hours..[Signature HyperX comfort]: Premium memory foam and soft, pliable leatherette deliver legendary comfort. It’s also lightweight at 300g, making it more comfortable to use during long gaming sessions.",
+        "image": "https://m.media-amazon.com/images/I/61e0+8QzVBL._AC_SX466_.jpg",
+        "price": 11000,
+        "category": [
+            "Headphone"
+        ],
+        "ratings": 7.8,
+        "creation_date": "October,2023",
+        "creation_time": "09:00 PM"
+    },
+    {
+        "id": "27",
+        "name": "SteelSeries Arctis 7 Wireless Gaming Headset",
+        "description": "Designed for gaming, the 2.4 grams connection delivers rock solid, lossless wireless audio with ultra-low latency and zero interference. Widely recognized as the best mic in gaming, the discord certified clear cast microphone delivers studio quality voice clarity and background noise cancellation. Sound is your competitive advantage with the s1 speaker drivers, engineered to produce ultra-low distortion audio so you hear every detail Effective Range: 12m / 40ft",
+        "image": "https://m.media-amazon.com/images/I/81pCpKFjBZL._AC_SX466_.jpg",
+        "price": 8000,
+        "category": [
+            "Headphone"
+        ],
+        "ratings": 8.5,
+        "creation_date": "November,2022",
+        "creation_time": "11:00 AM"
+    },
+    {
+        "id": "28",
+        "name": "Corsair MM800 RGB Polaris Mouse Pad",
+        "description": "The MM800 RGB POLARIS builds on CORSAIR mouse pad durability, tracking, and precision with a whole new level of LED immersion. A low friction micro-texture surface combined with ample surface area (350mm x 260mm x 5mm) provides pixel-precise tracking no matter what gameplay. 15 individual RGB zones are powered by true PWM lighting, providing the most accurate color representation. Synchronize each of the lighting zones with other CORSAIR RGB products with iCUE software to complete the ultimate gaming setup",
+        "image": "https://assets.corsair.com/image/upload/f_auto,q_auto/content/CH-9440020-NA-MM800-01.png",
+        "price": 7500,
+        "category": [
+            "Mouse Pad"
+        ],
+        "ratings": 8.8,
+        "creation_date": "December,2021",
+        "creation_time": "10:00 PM"
+    },
+    {"id": "29",
+        "name": "Elgato Stream Deck XL",
+        "description": "Advanced Live Production: easily control your favorite tools and platforms. 32 Customizable LCD Keys: instantly trigger unlimited actions with a tap. Powerful Integrations: Elgato 4KCU, OBS, Twitch, YouTube, Twitter, Discord, Spotify, Philips Hue, vMix, VoiceMod, and more. One-Touch Operation: change scenes, launch media, switch cameras, tweak lighting, adjust audio, post tweets – anything.",
+        "image": "https://m.media-amazon.com/images/I/71aY+mfIxiL._AC_SX466_.jpg",
+        "price": 25000,
+        "category": [
+            "Others"
+        ],
+        "ratings": 7.8,
+        "creation_date": "January,2024",
+        "creation_time": "03:00 PM"
+    },
+    {
+        "id": "30",
+        "name": "Logitech G560 LIGHTSYNC RGB Speakers",
+        "description": "Transform your gaming and multimedia experience with the Logitech G560 LIGHTSYNC RGB Speakers. Featuring immersive 2.1 surround sound and explosive bass, these speakers deliver powerful audio for gaming, movies, and music. The integrated LIGHTSYNC RGB technology reacts to in-game actions and music, creating dynamic lighting effects that enhance your visual experience. With DTS Ultra positional audio, you can enjoy precise sound directionality. Easily customize your sound and lighting settings with the Logitech G HUB software. Elevate your setup with these high-performance, visually stunning speakers.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE-PC8pvq4UrvhesHcrpJEO-YRo70h16jp4g&s",
+        "price": 17000,
+        "category": [
+            "Speaker"
+        ],
+        "ratings": 9,
+        "creation_date": "July2024",
+        "creation_time": "12:00 PM"
+    },
+    {
+        "id": "31",
+        "name": "Blue Yeti X Professional Condenser USB Microphone",
+        "description": "The Blue Yeti X is a state-of-the-art USB microphone for professional-level gaming Twitch streaming podcasting and YouTube productions With an all-new four-capsule array inside Yeti X delivers Blue’s legendary sound with greater focus and clarity than ever—in four versatile pickup patterns The high-res LED audio meter and illuminated multi-function smart knob let you monitor and adjust your voice level in real time providing precise control over your sound Download Logitech G HUB or Blue Sherpa (for PC and Mac) and get instant access to Blue VO!CE broadcast effects with professionally-tuned presets for podcasters and streamers or make your own unique signature sound and customizable LED lighting lets you personalize the look of your mic* Yeti X is the ultimate mic for today’s creators *Blue VO!CE for Yeti X is available in Logitech G HUB (logitechg ) and Blue Sherpa (bluedesigns /Sherpa) desktop apps Custom LED lighting is only available in Logitech G HUB.",
+        "image": "https://m.media-amazon.com/images/I/71TBTRivgDL._AC_UF1000,1000_QL80_.jpg",
+        "price": 17600,
+        "category": [
+            "Microphone"
+        ],
+        "ratings": 8,
+        "creation_date": "January,2024",
+        "creation_time": "12:00 AM"
+    },
+    {
+        "id": "32",
+        "name": "Corsair iCUE QL120 RGB Fans (3-Pack)",
+        "description": "The Corsair iCUE QL120 RGB 120mm PWM White Case Fan Triple Fan Kit with Lighting Node CORE features four zones and 34 LEDs per fan for vibrant lighting effects. The fan produces stunning visuals. Take complete control of the RGB lighting with the Lighting Node CORE, which is easily managed with the CORSAIR iCUE software. Synchronize your iCUE-compatible devices' lighting and enjoy immersive lighting experiences with supported games. With powerful fan speeds, low-noise fan blades, rubber dampers to reduce vibration, and stylish metal logo plates, you can enjoy efficient cooling and quiet operation. With the Corsair iCUE QL120 RGB 120mm PWM White Case Fan Triple Pack, you can enjoy mesmerizing lighting, superior cooling, and a touch of sophistication in your build.",
+        "image": "https://www.techlandbd.com/image/catalog/Casing%20Fan/Corsair/iCUE%20QL120/icue-ql120-white/icue-ql120-white-4.jpg",
+        "price": 8600,
+        "category": [
+            "Cooler"
+        ],
+        "ratings": 7,
+        "creation_date": "December,2023",
+        "creation_time": "03:00 PM"
+    },
+    {
+        "id": "33",
+        "name": "Phanteks Neon RGB LED Strip",
+        "description": "Phanteks’ NEON Digital-RGB LED M1 provides the smoothest lighting effect with many mounting positions to highlight your system. The easy to use and secure mounting set lets you choose which hardware to highlight with a diffuse ray of light from the NEON LED strip. The NEON M1 includes a 1-meter NEON D-RGB LED Strip that offers a simple and convenient way to synchronize with your compatible with Phanteks’ DRGB products and D-RGB equipped motherboards. Application: For Digital-RGB equipped Cases, Controllers and Motherboards. (+5V, Data, NA, GND). Color Full RGB color spectrum. Connections Input: Phanteks 3-pin (female) connector. Output: Phanteks 3-pin (male) connector. Input Voltage: +5V. Current (Single strip): Max. 2. 1A. Wattage (Single strip): Max. 10. 5W. Cable compatibility: For M/B Only with Digital RGB Pin Header (+5V, DATA, NA, GND); For Phanteks Digital RGB LED system. LED Color/ Controller: KS6812, Full Color Digital-RGB LED Chip. LED Number: 70 LEDs (1000mm NEON Digital-RGB LED Strip). MTBF: 20, 000 hrs.",
+        "image": "https://img.overclockers.co.uk/images/CA-09S-PT/096bf0ba44b5f33eb91cfe8f1a16ea04.jpg",
+        "price": 1500,
+        "category": [
+            "Others"
+        ],
+        "ratings": 8,
+        "creation_date": "January,2024",
+        "creation_time": "05:00 AM"
+    },
+    {
+        "id": "34",
+        "name": "CableMod Pro ModMesh Cable Extensions",
+        "description": "Upgrade your PC's aesthetics and cable management with CableMod Pro ModMesh Cable Extensions. These premium-quality extensions feature vibrant, durable ModMesh sleeving for a clean, professional look. With precision-molded connectors and a variety of color options, they ensure a perfect fit and seamless integration into any build. The included cable combs provide enhanced organization and improved airflow. Ideal for enthusiasts looking to customize and enhance their PC's appearance, CableMod Pro ModMesh Cable Extensions offer superior flexibility and durability.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZLHxVe41OE6Fi_YcoRZ3tljk6oTLWgS6v3A&s",
+        "price": 2300,
+        "category": [
+            "Others"
+        ],
+        "ratings": 6,
+        "creation_date": "September2023",
+        "creation_time": "12:00 AM"
+    },
+    {
+        "id": "35",
+        "name": "ASUS ROG Ryujin II 360 Liquid Cooler",
+        "description": "The flagship ROG Ryujin II all-in-one cooler delivers ultimate thermal performance for gamers looking for the absolute best. With a 7th Generation Asetek pump, Noctua Industrial PPC radiator fans, and an embedded fan for the CPU socket area, it harnesses both water and air to provide incredible cooling capabilities. And with an LCD panel that displays system stats and customizable graphics, ROG Ryujin II become the heart of your system. The 3.5-inch LCD panel on ROG Ryujin II is the largest LCD display on an AIO cooler in the industry and infuses your build with customizable visuals. The LCD panel can be tuned via Armoury Crate to display crucial system information, such as temperatures, voltages, fan speeds, or frequencies. Images and animation can be uploaded to show them off on the LCD panel, giving your build your own personal touch. ROG Ryujin II series includes a one-year subscription for the AIDA64 Extreme software, which provides advanced monitoring of hardware and software and offers exclusive in-screens that displays system and component performance. To overcome the thermal challenges of the latest multi-core CPUs, ROG Ryujin II offers industrial-grade Noctua iPPC-2000 PWM radiator fans that deliver high performance and minimal-noise operation. ROG Ryujin II conquers a limitation of traditional liquid coolers by providing a 60 mm fan embedded in the pump housing to ensure ample airflow to the CPU socket area. This fan circulates air to the CPU VRMs, M.2 slot, and surrounding components to reduce temperatures for added performance and stability. The controller for ROG Ryujin II features four PWM fan headers that can be tuned via FanXpert 4. It also offers four ARGB headers to link with addressable strips and components for lighting up your build. ROG Ryujin II series is compatible with a wide range of Intel and AMD motherboard platforms, giving you the flexibility to pair it with your choice of processor. It also comes fitted with 38 cm of tubing to make mounting and routing easier.",
+        "image": "https://m.media-amazon.com/images/I/51XaTRLDaIL._AC_SL1200_.jpg",
+        "price": 35100,
+        "category": [
+            "Cooler"
+        ],
+        "ratings": 8,
+        "creation_date": "February,2024",
+        "creation_time": "12:00 PM"
+    },
+    {
+        "id": "36",
+        "name": "Creative Sound BlasterX AE-5 Plus Sound Card",
+        "description": "Elevate your audio experience with the Creative Sound BlasterX AE-5 Plus Sound Card. Delivering pristine, high-resolution 32-bit/384kHz playback, it features the award-winning Xamp discrete headphone bi-amplifier for an immersive listening experience. With customizable RGB lighting and the Sound Blaster Acoustic Engine, you can personalize your audio and visual setup. Perfect for gamers and audiophiles alike, the AE-5 Plus offers exceptional sound clarity, deep bass, and precise positional audio. Enhance your PC's audio performance with this cutting-edge sound card.",
+        "image": "https://img.creative.com/inline/products/23484/table_img/ae-5_table_img1.jpg",
+        "price": 18890,
+        "category": [
+            "Speaker"
+        ],
+        "ratings": 9,
+        "creation_date": "January,2024",
+        "creation_time": "02:00 PM"
+    },
+    {
+        "id": "37",
+        "name": "TP-Link Archer TX3000E Wi-Fi 6 PCIe Adapter",
+        "description": "Upgrade your PC with the AX3000 Wi-Fi 6 Bluetooth 5.0 PCIe Adapter, offering blazing-fast speeds up to 3000Mbps for seamless online gaming, 4K streaming, and ultra-responsive browsing. With the latest Wi-Fi 6 technology, enjoy lower latency, enhanced security, and increased capacity to connect more devices. The built-in Bluetooth 5.0 allows for faster data transfer and extended range for your Bluetooth peripherals. Easy installation with the PCIe interface ensures compatibility with a wide range of desktops. Transform your PC's connectivity with next-gen performance and reliability.",
+        "image": "https://cdn11.bigcommerce.com/s-muk18pjqrv/images/stencil/1280x1280/products/167603/1100588/apin6kpkm__75179.1646485456.jpg?c=1",
+        "price": 5200,
+        "category": [
+            "Others"
+        ],
+        "ratings": 8,
+        "creation_date": "July2024",
+        "creation_time": "12:00 AM"
+    },
+    {
+        "id": "38",
+        "name": "Elgato 4K60 Pro MK.2 Capture Card",
+        "description": "4K VIDEO CAPTURE: PCIe HDMI capture card (minimum x4 slot) captures unprotected 4K 60Hz video to a desktop computer through an HDMI 2.0 input port | 4096×2160p 60fps, HDR10, 2ch audio, 16:9 & 4:3 aspect ratio | Supports playback with HDMI monitor output APPLICATION: HDMI capture card for recording video, conference calls, camera feeds, medical imaging in 4K quality w/incl. Streamcatcher or 3rd party (OBS) software; Live streaming on YouTube & other platforms w/RTSP; Use w/collaboration apps Teams & Zoom COMPATIBILITY: Video capture card/adapter supports H.264 (MPEG-4) encoding to ensure compatibility with most platforms; Out of the box solution for use with incl. software or third-party options (DirectShow) | Includes Low & Full profile brackets OS COMPATIBILITY: PCI Express HDMI capture card and incl. Streamcatcher software is compatible with Windows 8 and up; Also works with NTSC and PAL systems | HDCP compliant, will not capture protected-content such as Blu-ray or video output from a Mac STARTECH.COM ADVANTAGE: IT professionals choice for over 30 years; This 4K HDMI internal capture card/video grabber is backed for 2-years by StarTech.com, including free 24/5 North America based multi-lingual tech support You can install the HDMI capture card into any low-profile or full-profile PCIe slot, including fixed workstations such as 2U or 4U rack-mounted servers or media centers. With frame rates up to 60fps (frames per second) and H.264 encoding, this PCIe HDMI capture card is perfect for capturing ultra high-definition video for editing, compiling, and archiving. HDR10 is available through HDMI 2.0a support. The software included with the 4K60 capture card encodes captured video in H.264 - the most widely adopted video compression standard in the world. This video recording card ensures your captures are compatible with most device platforms such as PC, Mac, iOS and Android™. The UHD capture card features an HDMI output port so you can watch the video source on a separate HDMI display while recording on your computer. StarTech.com conducts thorough compatibility and performance testing on all our products to ensure we are meeting or exceeding industry standards and providing high-quality products to IT Professionals. Our local StarTech.com Technical Advisors have broad product expertise and work directly with our StarTech.com Engineers to provide support for our customers both pre and post-sales. PEXHDCAP4K is backed by a StarTech.com 2-year warranty and free, lifetime technical support. Note: This capture device will not record digitally encrypted content Capture meetings, presentations or conference calls directly to your computer Upload recorded videos or live broadcast your signal to any online video platform Record training and tutorial videos from your laptop or game console Specifications Warranty Information Warranty 2 Years Connector(s) 1 - Connector A HDMI (19 pin) HDMI (19 pin) 1 - Connector B PCI Express x4 Environmental Operating Temperature 0°C to 40°C (32°F to 104°F) Storage Temperature -5°C to 40°C (23°F to 104°F) Humidity 20~80% RH Non-Condensing Hardware AV Input HDMI - 2.0 AV Output HDMI Audio Yes Industry Standards NTSC, PAL-M, PAL-60, PAL Video Encoding: MPEG4/H.264 DirectShow Compatible Packaging Information Package Height 2.0 in [5.2 cm] Shipping (Package) Weight 6.9 oz [195.0 g] Package Length 5.9 in [15.0 cm] Package Width 8.7 in [22.0 cm] Performance Video Revision HDMI 2.0 Supported Resolutions HDMI: 4096 x 2160 (DCI 4K) / 60Hz Additional resolutions and refresh rates may be supported Physical Characteristics Product Height 0.7 in [1.7 cm] Weight of Product 2.0 oz [58.0 g] Product Length 5.3 in [13.5 cm] Product Width 4.7 in [12.0 cm] Software OS Compatibility Windows® 11, 10, 8 What's in the Box 1 - Included in Package PCI Express HDMI Capture Card Low-Profile Bracket Quick-Start Guide",
+        "image": "https://i5.walmartimages.com/asr/3d18c237-710d-4549-9394-f6f5d85bd9c8.6a261054474fa24fe1aeca1bf7aeeb9c.jpeg",
+        "price": 18600,
+        "category": [
+            "Others"
+        ],
+        "ratings": 7,
+        "creation_date": "February,2024",
+        "creation_time": "03:00 PM"
+    },
+    {
+        "id": "39",
+        "name": "APC Back-UPS Pro 1500VA UPS Battery Backup",
+        "description": "This APC battery back up power supply offers guaranteed power and surge protection for wireless networks, computers, and other electronics in your home or business. Backup battery power supply is designed for use during outages and unsafe voltage fluctuations, and provides surge protector with battery backup in the event of damaging power surges and spikes. The APC Back-UPS PRO series of Uninterruptible Power Supply are the perfect battery backup for computer, external harddrive and routers to protect your data and keep you connected. This APC 1500VA UPS offers AVR, is active PFC compatible, and has a User-replaceable battery to prolong the life of your UPS by APC.",
+        "image": "https://i5.walmartimages.com/seo/APC-UPS-1500VA-900W-Sine-Wave-UPS-Battery-Backup-Black-BR1500MS2_ecc82729-fcac-4c93-bc1c-e599aa32d30d.8a44a1d0d7e54f3b741adcf3e691665d.jpeg",
+        "price": 30500,
+        "category": [
+            "Power Supply"
+        ],
+        "ratings": 7,
+        "creation_date": "March,2024",
+        "creation_time": "12:00 AM"
+    },
+    {
+        "id": "40",
+        "name": "Arctic Silver 5 Thermal Paste",
+        "description": "Premium zinc oxide-based thermal compound for optimal thermal performance to improve heat transfer and lower temperatures. Ultra-low thermal impedance lowers CPU temperatures vs common thermal paste. CORSAIR TM30's low viscosity allows it to easily fill microscopic abrasions and channels in your CPUs heat spreader and coolers contact plate, for maximum thermal transfer area. CORSAIR TM30s high-stability liquid compound lasts for years with no drying, cracking or change inconsistency, so you don't have to worry about changing or re-applying thermal paste periodically. TM30 is non-conductive and contains zero volatile compounds, making it safe for both you and your PC.",
+        "image": "https://d3fa68hw0m2vcc.cloudfront.net/d02/241727491.jpeg",
+        "price": 600,
+        "category": [
+            "Others"
+        ],
+        "ratings": 8,
+        "creation_date": "January,2024",
+        "creation_time": "02:00 PM"
+    }
+]

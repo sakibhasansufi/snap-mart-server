@@ -1,5 +1,6 @@
 const router = require("express").Router();
 const Product = require("../Models/Product.js")
+const product = require("../config/products.json")
 
 
 router.get("/movie", async (req, res) => {
@@ -46,7 +47,7 @@ router.get("/movie", async (req, res) => {
             sortBy[sort[0]] = 'asc'
         }
 
-        const products = await Product.find({ name: { $regex: search, options: "i" } })
+        const products = await Product.find({ name: { $regex: search, $options: "i" } })
             .where("category")
             .in([...category])
             .sort(sortBy)
@@ -56,17 +57,17 @@ router.get("/movie", async (req, res) => {
 
         const total = await Product.countDocuments({
             category: { $in: [...category] },
-            name: { $regex: search, options: "i" }
+            name: { $regex: search, $options: "i" }
         })
 
         const response = {
-			error: false,
-			total,
-			page: page + 1,
-			limit,
-			category: categoryOptions,
-			products,
-		};
+            error: false,
+            total,
+            page: page + 1,
+            limit,
+            category: categoryOptions,
+            products,
+        };
 
         res.status(200).json(response);
 
@@ -79,5 +80,20 @@ router.get("/movie", async (req, res) => {
         })
     }
 });
+
+
+
+// const insertProducts = async () => {
+//     try {
+//         const docs = await Product.insertMany(product);
+//         return Promise.resolve(docs);
+//     } catch (error) {
+//         return Promise.reject(error)
+//     }
+// };
+
+// insertProducts()
+//     .then((docs) => console.log(docs))
+//     .catch((err) => console.log(err))
 
 module.exports = router;
