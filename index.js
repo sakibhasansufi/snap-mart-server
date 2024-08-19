@@ -8,7 +8,13 @@ const productRoutes = require("./Routes/products.js")
 dbConnect();
 
 app.use(express.json());
-app.use(cors());
+app.use(
+    cors({
+        origin: ['http://localhost:5173', 'https://snap-mart-eff64.web.app/'],
+        credentials: true,
+    }),
+);
+
 
 app.use("/api",productRoutes);
 

@@ -61,7 +61,7 @@ router.get("/products", async (req, res) => {
 			total,
 			page: page + 1,
 			limit,
-			categorys: categoryOptions,
+			category: categoryOptions,
 			products,
 		};
 
