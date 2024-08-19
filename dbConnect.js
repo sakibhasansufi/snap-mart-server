@@ -6,6 +6,7 @@ const dbConnect = () =>{
 
     mongoose.connection.on("connected", ()=>{
         console.log("Database connected successfully");
+
     })
 
     mongoose.connection.on("error", (err)=>{
