@@ -72,17 +72,17 @@ router.get("/products", async (req, res) => {
 	}
 });
 
-// const insertMovies = async () => {
-//     try {
-//         const docs = await Product.insertMany(products);
-//         return Promise.resolve(docs);
-//     } catch (err) {
-//         return Promise.reject(err)
-//     }
-// };
+const insertMovies = async () => {
+    try {
+        const docs = await Product.insertMany(products);
+        return Promise.resolve(docs);
+    } catch (err) {
+        return Promise.reject(err)
+    }
+};
 
-// insertMovies()
-//     .then((docs) => console.log(docs))
-//     .catch((err) => console.log(err))
+insertMovies()
+    .then((docs) => console.log(docs))
+    .catch((err) => console.log(err))
 
 module.exports = router;
